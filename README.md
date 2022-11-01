@@ -8,3 +8,5 @@ Search for movies or series and check which streaming services have them
 3. Enter your API-key
 4. Enter "movie" or "series"
 5. Enter keyword
+
+Results are saved as an HTML file and oppens in your browser
